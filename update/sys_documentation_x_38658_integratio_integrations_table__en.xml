@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Integrations Table" language="en" table="x_38658_integratio_integrations_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Integrations Table</label>
+            <language>en</language>
+            <name>x_38658_integratio_integrations_table</name>
+            <plural>Integrations Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-22 15:47:04</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>d02d2b816f0aa240744952b10b3ee4f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Integrations Table</sys_name>
+            <sys_package display_value="Integrations" source="x_38658_integratio">df1da3c96fc6a240744952b10b3ee414</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Integrations">df1da3c96fc6a240744952b10b3ee414</sys_scope>
+            <sys_update_name>sys_documentation_x_38658_integratio_integrations_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-22 15:47:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
