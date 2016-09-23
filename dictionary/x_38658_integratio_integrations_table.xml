@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element label="Integrations Table" max_length="40" name="x_38658_integratio_integrations_table" type="collection"/>
-</database>
